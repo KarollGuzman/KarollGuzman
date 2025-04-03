@@ -1,18 +1,19 @@
-🚀 Hey there! I’m Karoll Guzmán
+🚀 *Hey there! I’m Karoll Guzmán*
 
-✨ Full Stack Developer | Passionate about technology and continuous learning
+✨ **Full Stack Developer | Passionate about technology and continuous learning**
 
-📌 About Me
+
+📌 **About Me**
 
 I’m a Full Stack Developer with experience in building dynamic, scalable, and user-friendly applications.
 I’m currently self-learning and expanding my knowledge in new technologies.
 
 ⸻
 
-🛠️ Tech Stack
+🛠️ **Tech Stack**
 
 
-🚀 Languages & Tools
+🚀 **Languages & Tools**
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" style="filter: hue-rotate(270deg);"/>
@@ -21,10 +22,12 @@ I’m currently self-learning and expanding my knowledge in new technologies.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
 </p>
 
-🌟 Featured Projects
+🌟 **Featured Projects**
 
 Here are some of my favorite projects:
 
@@ -34,13 +37,15 @@ Here are some of my favorite projects:
 
 Cafetaleros is a full stack web application that facilitates direct trade between coffee producers and consumers. Built with React (frontend) and Flask (backend), it leverages RESTful APIs and a PostgreSQL database to ensure seamless transactions and user interactions.
 
-🔹 Tech Stack:
-	•	Frontend: React, Bootstrap
-	•	Backend: Flask, Python, JWT authentication
-	•	Database: PostgreSQL, SQLAlchemy
-	•	APIs: RESTful architecture for efficient data handling
+🔹 **Tech Stack:**
+
+• **Frontend:** React, Bootstrap  
+• **Backend:** Flask, Python, JWT authentication  
+• **Database:** PostgreSQL, SQLAlchemy  
+• **APIs:** RESTful architecture for efficient data handling
+
  
-⚡ Key Features:
+⚡ **Key Features:**
 
 ✅ User authentication & secure transactions
 
@@ -54,7 +59,7 @@ Cafetaleros is a full stack web application that facilitates direct trade betwee
   </a>
 </p>
 
-📊 GitHub Stats
+📊 **GitHub Stats**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KarollGuzman&show_icons=true&theme=dark&bg_color=000000&hide_border=true" width="48%" />
@@ -62,7 +67,7 @@ Cafetaleros is a full stack web application that facilitates direct trade betwee
 </p>
 
 
-📬 Let’s Connect!
+📬 **Let’s Connect!**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/karoll-guzm%C3%A1n-1a005732a/">
@@ -73,4 +78,4 @@ Cafetaleros is a full stack web application that facilitates direct trade betwee
   </a>
 </p>
 
-🌟 “Code, Learn, and Grow!”
+🌟 **“Code, Learn, and Grow!”**
