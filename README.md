@@ -7,6 +7,7 @@
 📌 **About Me**
 
 I’m a Full Stack Developer with experience in building dynamic, scalable, and user-friendly applications.
+
 I’m currently self-learning and expanding my knowledge in new technologies.
 
 ⸻
@@ -52,6 +53,7 @@ Cafetaleros is a full stack web application that facilitates direct trade betwee
 • **Database:** PostgreSQL, SQLAlchemy  
 • **APIs:** RESTful architecture for efficient data handling
 
+</br>
  
 ⚡ **Key Features:**
 
