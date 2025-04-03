@@ -3,7 +3,7 @@
 ✨ Full Stack Developer | Passionate about technology and continuous learning
 
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/08e69b9f-c51d-43dc-b96a-6728c1b37e3c)" width="600"/>
+  <img src="(https://github.com/user-attachments/assets/08e69b9f-c51d-43dc-b96a-6728c1b37e3c)" width="600"/>
 </p>
 
 📌 About Me
@@ -26,8 +26,8 @@ I’m currently self-learning and expanding my knowledge in new technologies.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=whiteg" width="50"/>
+  <img src=https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" width="50"/>
 </p>
 
 🌟 Featured Projects
@@ -68,7 +68,9 @@ Cafetaleros is a full stack web application that facilitates direct trade betwee
 
 🏆 GitHub Streak
 
+<p align="center">
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KarollGuzman&theme=radical)
+</p>
 
 📬 Let’s Connect!
 
