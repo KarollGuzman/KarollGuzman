@@ -1,8 +1,9 @@
 🚀 Hey there! I’m Karoll Guzmán
 
 ✨ Full Stack Developer | Passionate about technology and continuous learning
+
 <p align="center">
-  <img src="/mnt/data/A_personal_GitHub_README_header_graphic_combines_t.png" width="600"/>
+  <img src="![image](https://github.com/user-attachments/assets/08e69b9f-c51d-43dc-b96a-6728c1b37e3c)" width="600"/>
 </p>
 
 📌 About Me
@@ -25,12 +26,9 @@ I’m currently self-learning and expanding my knowledge in new technologies.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 </p>
-
-![Node.js](https://img.shields.io/badge/Node.js-green?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react&logoColor=white)
-![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git&logoColor=white)
 
 🌟 Featured Projects
 
@@ -65,9 +63,10 @@ Cafetaleros is a full stack web application that facilitates direct trade betwee
 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KarollGuzman&show_icons=true&theme=purple" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KarollGuzman&theme=purple" width="48%" />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KarollGuzman&show_icons=true&theme=dark&bg_color=000000&hide_border=true)
 </p>
+
+🏆 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KarollGuzman&theme=radical)
 
