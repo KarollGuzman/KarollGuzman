@@ -1,8 +1,9 @@
-🚀 *Hey there! I’m Karoll Guzmán*
+🚀 *HEY THERE! I'M KAROLL GUZMÁN*
 
 ✨ **Full Stack Developer | Passionate about technology and continuous learning**
 
 </br>
+
 📌 **About Me**
 
 I’m a Full Stack Developer with experience in building dynamic, scalable, and user-friendly applications.
@@ -11,7 +12,7 @@ I’m currently self-learning and expanding my knowledge in new technologies.
 ⸻
 
 🛠️ **Tech Stack:**
-
+</br>
 
 🚀 **Languages & Tools**
 
@@ -65,7 +66,6 @@ Cafetaleros is a full stack web application that facilitates direct trade betwee
   <img src="https://github-readme-stats.vercel.app/api?username=KarollGuzman&show_icons=true&theme=dark&bg_color=000000&hide_border=true" width="48%" />
   <img src="https://"github-readme-streak-stats.herokuapp.com/?user=KarollGuzman&theme=radical width="48%" />
 </p>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KarollGuzman&theme=radical)
 
 📬 **Let’s Connect!**
 
