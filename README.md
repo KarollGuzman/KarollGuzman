@@ -1,4 +1,4 @@
-🚀 *HEY THERE! I'M KAROLL GUZMÁN*
+🚀 *HEY THERE, I'M KAROLL GUZMÁN!*
 
 ✨ **Full Stack Developer | Passionate about technology and continuous learning**
 
@@ -12,6 +12,7 @@ I’m currently self-learning and expanding my knowledge in new technologies.
 ⸻
 
 🛠️ **Tech Stack:**
+
 </br>
 
 🚀 **Languages & Tools**
@@ -53,6 +54,8 @@ Cafetaleros is a full stack web application that facilitates direct trade betwee
 ✅ Dynamic product listings with real-time updates
 
 ✅ API integration for smooth order processing
+
+</br>
 
 <p align="center">
   <a href="https://github.com/KarollGuzman">
