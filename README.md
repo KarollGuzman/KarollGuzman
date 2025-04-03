@@ -42,6 +42,8 @@ Here are some of my favorite projects:
 
 📌 Project: [https://github.com/KarollGuzman/Cafetaleros-project]
 
+</br>
+
 ☕ **Cafetaleros - Full Stack Web Platform for Coffee Trading**
 
 Cafetaleros is a full stack web application that facilitates direct trade between coffee producers and consumers. Built with React (frontend) and Flask (backend), it leverages RESTful APIs and a PostgreSQL database to ensure seamless transactions and user interactions.
