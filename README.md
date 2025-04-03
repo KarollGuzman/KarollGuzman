@@ -8,6 +8,7 @@
 📌 About Me
 
 I’m a Full Stack Developer with experience in building dynamic, scalable, and user-friendly applications.
+
 I’m currently self-learning and expanding my knowledge in new technologies.
 
 ⸻
@@ -15,6 +16,7 @@ I’m currently self-learning and expanding my knowledge in new technologies.
 🛠️ Tech Stack
 
 🚀 Languages & Tools
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" style="filter: hue-rotate(270deg);"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
@@ -36,15 +38,21 @@ Here are some of my favorite projects:
 Cafetaleros is a full stack web application that facilitates direct trade between coffee producers and consumers. Built with React (frontend) and Flask (backend), it leverages RESTful APIs and a PostgreSQL database to ensure seamless transactions and user interactions.
 
 🔹 Tech Stack:
-	•	Frontend: React, Bootstrap
-	•	Backend: Flask, Python, JWT authentication
-	•	Database: PostgreSQL, SQLAlchemy
-	•	APIs: RESTful architecture for efficient data handling
 
+	•	Frontend: React, Bootstrap
+ 
+	•	Backend: Flask, Python, JWT authentication
+ 
+	•	Database: PostgreSQL, SQLAlchemy
+ 
+	•	APIs: RESTful architecture for efficient data handling
+ 
 ⚡ Key Features:
 
 ✅ User authentication & secure transactions
+
 ✅ Dynamic product listings with real-time updates
+
 ✅ API integration for smooth order processing
 
 🔗 View Project
@@ -56,12 +64,14 @@ Cafetaleros is a full stack web application that facilitates direct trade betwee
 </p>
 
 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KarollGuzman&show_icons=true&theme=purple" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KarollGuzman&theme=purple" width="48%" />
 </p>
 
 📬 Let’s Connect!
+
 <p align="center">
   <a href="https://www.linkedin.com/in/karoll-guzm%C3%A1n-1a005732a/">
     <img src="https://img.shields.io/badge/-LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white"/>
