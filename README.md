@@ -17,6 +17,8 @@ I’m currently self-learning and expanding my knowledge in new technologies.
 
 🚀 **Languages & Tools**
 
+</br>
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" style="filter: hue-rotate(270deg);"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
@@ -29,9 +31,13 @@ I’m currently self-learning and expanding my knowledge in new technologies.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
 </p>
 
+</br>
+
 🌟 **Featured Projects**
 
 Here are some of my favorite projects:
+
+</br>
 
 📌 Project: [https://github.com/KarollGuzman/Cafetaleros-project]
 
@@ -80,5 +86,7 @@ Cafetaleros is a full stack web application that facilitates direct trade betwee
     <img src="https://img.shields.io/badge/-GitHub-6A0DAD?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
+</br>
 
 🌟 **“Code, Learn, and Grow!”**
