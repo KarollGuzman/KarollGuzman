@@ -8,12 +8,12 @@
 📌 About Me
 
 I’m a Full Stack Developer with experience in building dynamic, scalable, and user-friendly applications.
-
 I’m currently self-learning and expanding my knowledge in new technologies.
 
 ⸻
 
 🛠️ Tech Stack
+
 
 🚀 Languages & Tools
 
@@ -27,6 +27,11 @@ I’m currently self-learning and expanding my knowledge in new technologies.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
 </p>
 
+![Node.js](https://img.shields.io/badge/Node.js-green?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git&logoColor=white)
+
 🌟 Featured Projects
 
 Here are some of my favorite projects:
@@ -38,13 +43,9 @@ Here are some of my favorite projects:
 Cafetaleros is a full stack web application that facilitates direct trade between coffee producers and consumers. Built with React (frontend) and Flask (backend), it leverages RESTful APIs and a PostgreSQL database to ensure seamless transactions and user interactions.
 
 🔹 Tech Stack:
-
 	•	Frontend: React, Bootstrap
- 
 	•	Backend: Flask, Python, JWT authentication
- 
 	•	Database: PostgreSQL, SQLAlchemy
- 
 	•	APIs: RESTful architecture for efficient data handling
  
 ⚡ Key Features:
@@ -54,8 +55,6 @@ Cafetaleros is a full stack web application that facilitates direct trade betwee
 ✅ Dynamic product listings with real-time updates
 
 ✅ API integration for smooth order processing
-
-🔗 View Project
 
 <p align="center">
   <a href="https://github.com/KarollGuzman">
@@ -69,6 +68,8 @@ Cafetaleros is a full stack web application that facilitates direct trade betwee
   <img src="https://github-readme-stats.vercel.app/api?username=KarollGuzman&show_icons=true&theme=purple" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KarollGuzman&theme=purple" width="48%" />
 </p>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KarollGuzman&theme=radical)
 
 📬 Let’s Connect!
 
