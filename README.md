@@ -2,10 +2,6 @@
 
 ✨ Full Stack Developer | Passionate about technology and continuous learning
 
-<p align="center">
-  <img src="(https://github.com/user-attachments/assets/08e69b9f-c51d-43dc-b96a-6728c1b37e3c)" width="600"/>
-</p>
-
 📌 About Me
 
 I’m a Full Stack Developer with experience in building dynamic, scalable, and user-friendly applications.
@@ -25,9 +21,7 @@ I’m currently self-learning and expanding my knowledge in new technologies.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=whiteg" width="50"/>
-  <img src=https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/
 </p>
 
 🌟 Featured Projects
@@ -63,14 +57,10 @@ Cafetaleros is a full stack web application that facilitates direct trade betwee
 📊 GitHub Stats
 
 <p align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KarollGuzman&show_icons=true&theme=dark&bg_color=000000&hide_border=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=KarollGuzman&show_icons=true&theme=dark&bg_color=000000&hide_border=true" width="48%" />
+  <img src="https://"github-readme-streak-stats.herokuapp.com/?user=KarollGuzman&theme=radical width="48%" />
 </p>
 
-🏆 GitHub Streak
-
-<p align="center">
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KarollGuzman&theme=radical)
-</p>
 
 📬 Let’s Connect!
 
