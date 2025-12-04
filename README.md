@@ -1,98 +1,102 @@
-🚀 *HEY THERE, I'M KAROLL GUZMÁN!*
+<div align="center">
+  
+# ✨ Hey there, I'm Karoll Guzmán! 👋  
 
-✨ **Full Stack Developer | Passionate about technology and continuous learning**
+💻 **Full Stack Developer**  
+🌱 Passionate about **continuous learning, clean architecture, and building impactful digital experiences**
 
-</br>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
 
-📌 **About Me**
+</div>
 
-I’m a Full Stack Developer with experience in building dynamic, scalable, and user-friendly applications.
+---
 
-I’m currently self-learning and expanding my knowledge in new technologies.
+## 🧑‍💻 About Me
 
-⸻
+- 🔹 Full Stack Developer focused on scalable, maintainable and user-friendly applications  
+- 🔹 Always exploring new tools and technologies  
+- 🔹 Lover of problem-solving, APIs and meaningful UI/UX  
 
-🛠️ **Tech Stack:**
+💬 _I enjoy helping communities grow through technology_ ✨
 
-</br>
+---
 
-🚀 **Languages & Tools**
+## ⚙ Tech Stack  
 
-</br>
+### 🔹 Main Languages & Tools  
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" style="filter: hue-rotate(270deg);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,js,python,flask,git,bootstrap,postgres,html,css" />
 </p>
 
-</br>
+✔ React • JavaScript • Python • Flask • Bootstrap  
+✔ PostgreSQL • REST APIs • Git • SQLAlchemy  
 
-🌟 **Featured Projects**
+---
 
-Here are some of my favorite projects:
+## 🚀 Featured Project  
 
-</br>
+### ☕ **Cafeteros – Full Stack Web Platform for Coffee Trade**
 
-📌 Project: [https://github.com/KarollGuzman/Cafetaleros-project]
+A platform that connects coffee producers directly with consumers using robust architecture.
 
-</br>
+🔧 **Tech Used:**  
+✔ React & Bootstrap  
+✔ Flask & JWT Authentication  
+✔ PostgreSQL + SQLAlchemy  
+✔ RESTful API infrastructure  
 
-☕ **Cafetaleros - Full Stack Web Platform for Coffee Trading**
+🔥 **Key Features:**  
+- 🔐 Secure authentication  
+- ⚡ Real-time product updates  
+- 🔌 Smooth API-driven transactions  
 
-Cafetaleros is a full stack web application that facilitates direct trade between coffee producers and consumers. Built with React (frontend) and Flask (backend), it leverages RESTful APIs and a PostgreSQL database to ensure seamless transactions and user interactions.
+🔗 Project Repo:  
+➡ https://github.com/KarollGuzman/Cafeteros-project
 
-</br>
+---
 
-🔹 **Tech Stack:**
+## 📊 GitHub Stats  
 
-• **Frontend:** React, Bootstrap  
-• **Backend:** Flask, Python, JWT authentication  
-• **Database:** PostgreSQL, SQLAlchemy  
-• **APIs:** RESTful architecture for efficient data handling
+<div align="center">
 
-</br>
- 
-⚡ **Key Features:**
+<img src="https://github-readme-stats.vercel.app/api?username=KarollGuzman&show_icons=true&theme=radical" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarollGuzman&layout=compact&theme=radical" height="160" />
 
-✅ User authentication & secure transactions
+</div>
 
-✅ Dynamic product listings with real-time updates
+---
 
-✅ API integration for smooth order processing
+## 🚀 Activity & Contributions  
 
-</br>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/KarollGuzman">
-    <img src="https://img.shields.io/badge/-See%20More%20Projects-6A0DAD?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KarollGuzman&theme=radical" height="170"/>
 
-📊 **GitHub Stats**
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KarollGuzman&show_icons=true&theme=dark&bg_color=000000&hide_border=true" width="48%" />
-  <img src="https://"github-readme-streak-stats.herokuapp.com/?user=KarollGuzman&theme=radical width="48%" />
-</p>
+---
 
-📬 **Let’s Connect!**
+## 🌐 Let’s Connect!  
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/karoll-guzm%C3%A1n-1a005732a/">
-    <img src="https://img.shields.io/badge/-LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/KarollGuzman">
-    <img src="https://img.shields.io/badge/-GitHub-6A0DAD?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
 
-</br>
+<a href="https://www.linkedin.com/in/TU-LINKEDIN-AQUI/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" />
+</a>
 
-🌟 **“Code, Learn, and Grow!”**
+&nbsp;&nbsp;
+
+<a href="https://github.com/KarollGuzman">
+  <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github&style=for-the-badge" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+🎯 _“Code, Learn, and Grow!”_ 💡
+
+</div>
