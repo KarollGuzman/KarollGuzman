@@ -19,6 +19,9 @@ jobs:
           github_user_name: KarollGuzman
           outputs: |
             dist/snake.svg
+          palette: "github-dark"
+          speed: 0.5
+          snake_color: "#8a2be2"
 
       - name: Push snake animation to output branch
         uses: peaceiris/actions-gh-pages@v3
