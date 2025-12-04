@@ -20,7 +20,7 @@ jobs:
           outputs: |
             dist/snake.svg
           palette: "github-dark"
-          speed: 0.08
+          speed: 0.05
           snake_color: "#8a2be2"
 
       - name: Push snake animation to output branch
