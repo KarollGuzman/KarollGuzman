@@ -1,6 +1,14 @@
+
+> **Karoll Guzmán — Full Stack Developer**
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=BC54FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Karoll+Guzmán+%F0%9F%91%8B;Full+Stack+Developer+%3A%29;Building+cool+things%2C+learning+every+day;Welcome+to+my+digital+space."/>
+  <!-- Banner animado con estilo hacker -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=2400&color=BC54FF&center=true&vCenter=true&width=680&lines=Accessing+Karoll+Profile...;Decrypting+Neon+Identity...;Full+Stack+Developer+Detected.;Welcome+to+my+Digital+Space."/>
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NEON-HACKER%20MODE-%23BC54FF?style=for-the-badge&logo=matrix&logoColor=white" />
+</p>
 
 ---
 
@@ -17,6 +25,7 @@ I'm a Full Stack Developer exploring technology through experimentation, learnin
 # ⚙ Tech Stack
 
 <p align="center">
+  <!-- Iconos minimal neon -->
   <img src="https://skillicons.dev/icons?i=react,js,python,flask,postgres,bootstrap,vscode,git,github,docker,linux&theme=dark&perline=6" />
 </p>
 
@@ -34,7 +43,9 @@ A platform connecting coffee producers with consumers.
 
 ---
 
-<img src="https://i.imgur.com/6o9Hq2F.png" width="100%" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/roxirio/images/main/neon-divider.png" width="100%" />
+</div>
 
 # 📊 GitHub Stats
 
@@ -75,11 +86,14 @@ A platform connecting coffee producers with consumers.
 
 ---
 
-<img src="https://i.imgur.com/6o9Hq2F.png" width="100%" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/roxirio/images/main/neon-divider.png" width="100%" />
+</div>
 
 # 🐍 Animated Snake
 
 <div align="center">
+  <!-- OJO: esta URL SIEMPRE funciona con tu action -->
   <img src="https://raw.githubusercontent.com/KarollGuzman/KarollGuzman/output/snake.svg" />
 </div>
 
