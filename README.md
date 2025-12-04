@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://i.imgur.com/OyQXrYw.png" width="900" />
+</div>
+
+<div align="center">
 
   <!-- Banner animado -->
   <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=4500&color=7F3CF0&center=true&vCenter=true&width=650&lines=Hey!+I'm+Karoll+Guzmán+👋;Full+Stack+Developer+💻;Tech+Explorer+%26+Problem+Solver;Always+Learning+✨" />
@@ -9,9 +13,12 @@
 
 # ✨ About Me
 
-💻 Full Stack Developer in continuous learning  
-🌱 Focused on backend logic, UI building and API integrations  
-🧠 Passionate about solving problems with technology  
+I'm a Full Stack Developer passionate about building useful digital experiences.
+
+ 💡 I enjoy solving problems through code
+ 🌱 I’m constantly learning and experimenting with new tech
+ ⚙ I like working on backend logic, APIs and UI components
+ 🤝 I value collaboration, curiosity and continuous improvement
 
 > _I believe that growth happens one commit at a time._
 
