@@ -1,66 +1,54 @@
 <div align="center">
-  <img src="https://i.imgur.com/OyQXrYw.png" width="900" />
-</div>
-
-<div align="center">
-
-  <!-- Banner animado -->
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=4500&color=7F3CF0&center=true&vCenter=true&width=650&lines=Hey!+I'm+Karoll+Guzmán+👋;Full+Stack+Developer+💻;Tech+Explorer+%26+Problem+Solver;Always+Learning+✨" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=BC54FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Karoll+Guzmán+%F0%9F%91%8B;Full+Stack+Developer+%3A%29;Building+cool+things%2C+learning+every+day;Welcome+to+my+digital+space."/>
 </div>
 
 ---
 
-# ✨ About Me
+# 👨‍💻 Digital Identity
 
-I'm a Full Stack Developer passionate about building useful digital experiences.
+I'm a Full Stack Developer exploring technology through experimentation, learning and creation.
 
- 💡 I enjoy solving problems through code
- 🌱 I’m constantly learning and experimenting with new tech
- ⚙ I like working on backend logic, APIs and UI components
- 🤝 I value collaboration, curiosity and continuous improvement
-
-> _I believe that growth happens one commit at a time._
+- 🔭 I build apps to solve real problems  
+- ⚙ Most interested in backend logic, clean APIs and UI flow  
+- ✨ Always learning — improving through curiosity and iteration  
 
 ---
 
 # ⚙ Tech Stack
 
-### 🔹 Languages & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,python,flask,git,bootstrap,postgres,html,css" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,python,flask,postgres,bootstrap,vscode,git,github,docker,linux&theme=dark&perline=6" />
 </p>
 
-✔ React • JavaScript • Python  
-✔ Flask • PostgreSQL • SQLAlchemy  
-✔ Bootstrap • Git  
+---
+
+# ☕ Highlighted Project  
+### **Cafeteros — Coffee Trade Platform**
+
+A platform connecting coffee producers with consumers.
+
+🔧 Built with React, Flask, PostgreSQL and JWT Auth.  
+🧩 Focused on usability, secure transactions & real-time updates.
+
+👉 Repo → https://github.com/KarollGuzman/Cafeteros-project
 
 ---
 
-# ☕ Featured Project
-
-### 🌟 **Cafeteros — Coffee Trade Web Platform**
-
-A platform connecting Colombian coffee producers directly with consumers.
-
-🔧 **Tech:**  
-- React & Bootstrap  
-- Flask + JWT Auth  
-- PostgreSQL + SQLAlchemy  
-- RESTful architecture  
-
-🔗 Repo → https://github.com/KarollGuzman/Cafeteros-project
-
----
+<img src="https://i.imgur.com/6o9Hq2F.png" width="100%" />
 
 # 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats-k4xr.vercel.app/api?username=KarollGuzman&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats-k4xr.vercel.app/api/top-langs/?username=KarollGuzman&layout=compact&theme=radical" height="160" />
+</div>
 
-<img src="https://github-readme-stats-k4xr.vercel.app/api?username=KarollGuzman&show_icons=true&theme=radical" height="160" />
-<img src="https://github-readme-stats-k4xr.vercel.app/api/top-langs/?username=KarollGuzman&layout=compact&theme=radical" height="160" />
+---
 
+# 🚀 Activity & Streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=KarollGuzman&theme=radical&date_format=j%20M%5B%20Y%5D" height="170"/>
 </div>
 
 ---
@@ -73,47 +61,12 @@ A platform connecting Colombian coffee producers directly with consumers.
 
 ---
 
-# 🚀 Activity & Streak
+# 🌍 Let’s Connect
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=KarollGuzman&theme=radical&date_format=j%20M%5B%20Y%5D" height="170"/>
-
-</div>
-
----
-
-# 🔧 Toolbox
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,python,flask,postgres,bootstrap,vscode,git,github,docker,linux&theme=light&perline=6" />
-</p>
-
----
-
-# 🌱 What I’m Working On
-
-- Building full stack applications  
-- Improving backend logic & API design  
-- Learning deployment and optimization  
-- Growing through projects and collaboration 🚀  
-
----
-
-# 🌍 Let’s Connect!
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/karoll-guzman-dev/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-%230078B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/KarollGuzman">
-  <img src="https://img.shields.io/badge/GitHub-Follow-%23181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/karoll-guzman-dev/"><img src="https://img.shields.io/badge/LinkedIn-Connect-%230078B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/KarollGuzman"><img src="https://img.shields.io/badge/GitHub-Follow-%23181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
 <p align="center">
@@ -122,7 +75,9 @@ A platform connecting Colombian coffee producers directly with consumers.
 
 ---
 
-# 🐍 Animated Contribution Snake
+<img src="https://i.imgur.com/6o9Hq2F.png" width="100%" />
+
+# 🐍 Animated Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/KarollGuzman/KarollGuzman/output/snake.svg" />
@@ -131,5 +86,6 @@ A platform connecting Colombian coffee producers directly with consumers.
 ---
 
 <p align="center">
-  ✨ <em>“Code, Learn & Grow — one commit at a time”</em> ✨
+  ✨ <em>“Code, Learn & Grow — one commit at a time.”</em> ✨
 </p>
+
