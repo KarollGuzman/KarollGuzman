@@ -112,7 +112,7 @@ A platform enabling direct connection between Colombian coffee producers and con
 # 🐍 Animated Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/KarollGuzman/KarollGuzman/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/KarollGuzman/KarollGuzman/output/snake.svg" />
 </div>
 
 ---
