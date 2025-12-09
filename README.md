@@ -1,18 +1,28 @@
-
 > **Karoll Guzmán — Full Stack Developer**
+<!-- 🔥 BANNER VISUAL FUTURISTA -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/roxirio/images/main/neon-cyber-banner-purple.png" width="100%" alt="Neon Banner"/>
+</p>
 
-<div align="center">
-  <!-- Banner animado con estilo hacker -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=2400&color=BC54FF&center=true&vCenter=true&width=680&lines=Accessing+Karoll+Profile...;Decrypting+Neon+Identity...;Full+Stack+Developer+Detected.;Welcome+to+my+Digital+Space."/>
-</div>
+<br/>
+
+<!-- 🔥 TÍTULO + IDENTIDAD -->
+<p align="center">
+  <code style="font-size: 18px;">Karoll Guzmán — Full Stack Developer</code>
+</p>
+
+<!-- 🔥 BANNER HACKER ANIMADO -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=2400&color=BC54FF&center=true&vCenter=true&width=550&lines=Decrypting+Neon+Identity...;Access+Granted.;Welcome+to+my+Digital+Space." />
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NEON-HACKER%20MODE-%23BC54FF?style=for-the-badge&logo=matrix&logoColor=white" />
+  <img src="https://img.shields.io/badge/NEON-HACKER%20MODE-%23BC54FF?style=flat-square" />
 </p>
 
 ---
 
-# 👨‍💻 Digital Identity
+# 👩‍💻 Digital Identity
 
 I'm a Full Stack Developer exploring technology through experimentation, learning and creation.
 
@@ -25,7 +35,6 @@ I'm a Full Stack Developer exploring technology through experimentation, learnin
 # ⚙ Tech Stack
 
 <p align="center">
-  <!-- Iconos minimal neon -->
   <img src="https://skillicons.dev/icons?i=react,js,python,flask,postgres,bootstrap,vscode,git,github,docker,linux&theme=dark&perline=6" />
 </p>
 
@@ -43,9 +52,9 @@ A platform connecting coffee producers with consumers.
 
 ---
 
-<div align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/roxirio/images/main/neon-divider.png" width="100%" />
-</div>
+</p>
 
 # 📊 GitHub Stats
 
@@ -75,9 +84,15 @@ A platform connecting coffee producers with consumers.
 # 🌍 Let’s Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/karoll-guzman-dev/"><img src="https://img.shields.io/badge/LinkedIn-Connect-%230078B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/karoll-guzman-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-%230078B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
   &nbsp;&nbsp;
-  <a href="https://github.com/KarollGuzman"><img src="https://img.shields.io/badge/GitHub-Follow-%23181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+  <a href="https://github.com/KarollGuzman">
+    <img src="https://img.shields.io/badge/GitHub-Follow-%23181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </div>
 
 <p align="center">
@@ -86,14 +101,13 @@ A platform connecting coffee producers with consumers.
 
 ---
 
-<div align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/roxirio/images/main/neon-divider.png" width="100%" />
-</div>
+</p>
 
 # 🐍 Animated Snake
 
 <div align="center">
-  <!-- OJO: esta URL SIEMPRE funciona con tu action -->
   <img src="https://raw.githubusercontent.com/KarollGuzman/KarollGuzman/output/snake.svg" />
 </div>
 
@@ -102,4 +116,3 @@ A platform connecting coffee producers with consumers.
 <p align="center">
   ✨ <em>“Code, Learn & Grow — one commit at a time.”</em> ✨
 </p>
-
