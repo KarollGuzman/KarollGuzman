@@ -57,7 +57,7 @@ A platform connecting coffee producers with consumers.
 # 🚀 Activity & Streak
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KarollGuzman&theme=radical" height="170" />
+  <img src="https://streak-stats.proxy.breadthe.dev/?user=KarollGuzman&theme=radical" height="170"/>
 </div>
 
 ---
