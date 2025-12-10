@@ -1,24 +1,17 @@
-> **Karoll Guzmán — Full Stack Developer**
-<!-- 🔥 BANNER VISUAL FUTURISTA -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/roxirio/images/main/neon-cyber-banner-purple.png" width="100%" alt="Neon Banner"/>
-</p>
+<div align="center">
 
-<br/>
+  <!-- 🔥 Banner minimal neon -->
+  <h1 style="font-weight: 700; color: #BC54FF; margin-bottom: -10px;">
+    Karoll Guzmán
+  </h1>
 
-<!-- 🔥 TÍTULO + IDENTIDAD -->
-<p align="center">
-  <code style="font-size: 18px;">Karoll Guzmán — Full Stack Developer</code>
-</p>
+  <h3 style="color: #cfcfcf; font-weight: 400;">
+    Full Stack Developer
+  </h3>
 
-<!-- 🔥 BANNER HACKER ANIMADO -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=2400&color=BC54FF&center=true&vCenter=true&width=550&lines=Decrypting+Neon+Identity...;Access+Granted.;Welcome+to+my+Digital+Space." />
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=BC54FF&center=true&vCenter=true&width=500&lines=Decrypting+Neon+Identity...;Access+Granted.;Welcome+to+my+Digital+Space." />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/NEON-HACKER%20MODE-%23BC54FF?style=flat-square" />
-</p>
+</div>
 
 ---
 
@@ -51,10 +44,6 @@ A platform connecting coffee producers with consumers.
 👉 Repo → https://github.com/KarollGuzman/Cafeteros-project
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/roxirio/images/main/neon-divider.png" width="100%" />
-</p>
 
 # 📊 GitHub Stats
 
@@ -100,10 +89,6 @@ A platform connecting coffee producers with consumers.
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/roxirio/images/main/neon-divider.png" width="100%" />
-</p>
 
 # 🐍 Animated Snake
 
