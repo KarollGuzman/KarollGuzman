@@ -18,7 +18,7 @@
 
 Web Application Development (DAW) student focused on full stack development.
 
-💻 Building web applications using React, Python, Flask, and SQL  
+💻 Building real-world web applications using React, Python, Flask, and SQL  
 🚀 Currently improving through hands-on projects  
 🎯 Looking for an internship to gain real-world experience  
 
@@ -77,5 +77,5 @@ Single-page application consuming the Star Wars API (SWAPI).
 ---
 
 <p align="center">
-  ✨ <em>Building, learning, and growing every day</em> ✨
+  ✨ <em>Keep building, learning, and improving every day</em> ✨
 </p>
